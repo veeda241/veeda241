@@ -1,0 +1,61 @@
+import os
+os.system("pip install textblob")
+
+
+# Import necessary libraries
+from textblob import TextBlob
+
+# Define a function to simulate the emotional assistance system
+def emotional_assistance_system(user_message, community_type):
+    """
+    A simple emotional assistance system that responds based on the user's message sentiment
+    and the type of niche community.
+    
+    Parameters:
+    - user_message (str): The message input from the user.
+    - community_type (str): The niche community type (e.g., 'chronic_illness', 'student_stress').
+    
+    Returns:
+    - response (str): AI-generated response tailored to the user's sentiment and community.
+    """
+    
+    # Perform basic sentiment analysis using TextBlob
+    sentiment_score = TextBlob(user_message).sentiment.polarity
+    # Determine sentiment type
+    if sentiment_score > 0.1:
+        sentiment = "positive"
+    elif sentiment_score < -0.1:
+        sentiment = "negative"
+    else:
+        sentiment = "neutral"
+    
+    # Respond based on community type and sentiment
+    if community_type == "chronic_illness":
+        if sentiment == "positive":
+            response = "I'm so glad to hear things are going well! It's inspiring to see you keep a positive outlook despite the challenges."
+        elif sentiment == "negative":
+            response = "I understand that dealing with a chronic illness can be really tough. Remember, you’re not alone in this. Take it one day at a time."
+        else:
+            response = "I'm here for you if you need to share more. Just know there are people who understand what you’re going through."
+    
+    elif community_type == "student_stress":
+        if sentiment == "positive":
+            response = "That's great to hear! Balancing studies and stress can be hard, so it's good to see you're managing well."
+        elif sentiment == "negative":
+            response = "I hear you. School can be overwhelming. Take a few deep breaths, and maybe consider taking a short break. You're doing your best!"
+        else:
+            response = "It's okay to feel neutral sometimes. Let me know if you’d like some study tips or stress relief suggestions."
+    
+    else:
+        response = "I'm here to support you! Feel free to share more about what's on your mind."
+
+    return response
+
+# Example of usage
+# Get user input
+user_message = input("Please enter your message: ")
+community_type = input("Please enter your community type (e.g., chronic_illness, student_stress): ")
+
+# Get the AI response
+response = emotional_assistance_system(user_message, community_type)
+print("\nAI Response:", response)
