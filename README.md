@@ -39,12 +39,8 @@ I'm a creative problem-solver from India, currently pursuing B.Tech in AI & ML a
 
 ### 📢 Find me elsewhere
 * 💼 **LinkedIn:** [linkedin.com/in/vyas-s](https://www.linkedin.com/in/vyas-s)
-* 📧 **Email:** [vyas.engineer@example.com](mailto:vyas.engineer@example.com)
-* 🔗 **Portfolio:** [Your Portfolio Link Here]
+* 📧 **Email:** [vyas.engineer@example.com](mailto:vyas.sk17@Gmail.com)
+* 🔗 **Portfolio:** [[Your Portfolio Link Here](https://veeda241.github.io/portfolio/#blog)]
 
 ---
-
-### 📊 Contribution Graph
-![Vyas's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=veeda241&theme=react-dark)
-
 *Show some ❤️ by starring the repos that made you say “wait, that’s clever!”*
