@@ -1,52 +1,50 @@
-![Hey, nice to see you](https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430)
+# Hi, I'm Vyas S 👋 👨🏻‍💻
 
-Hey, I'm Vyas 👋  
-Second-year engineering student • Full-stack dev • Hackathon warrior • Workflow whisperer
+**Second-year Engineering Student | Full-stack Dev | Hackathon Warrior | AI/ML Enthusiast**
 
----
-
-🎯 Mission: Build reproducible, emotionally resonant tech that actually works under demo pressure  
-💡 Philosophy: If it can't be explained in a meme or a README, it's not ready for teammates  
-🎤 Fun fact: I once wrote a motivational rap for a demo—and it slapped harder than the backend
+I'm a creative problem-solver from India, currently pursuing B.Tech in AI & ML at St. Joseph's. I focus on building tech that is reproducible, emotionally resonant, and—most importantly—survives the "demo pressure" of a 24-hour hackathon. I'm proud to say I can build a clean backend and still find time to write a motivational rap for the presentation.
 
 ---
 
-🧠 What I'm Into  
-- 🤖 LLMs, LangChain, and prompt engineering  
-- ⚙️ Git, Docker, CLI wizardry (especially on Windows)  
-- 🌐 React Native, Firebase, Node.js, Next.js  
-- 📊 SQL, cloud APIs, and scalable backend setups  
-- 🎨 Creative content for demos (lyrics, branding, hype)
+### 🚀 Quick Stats & Activity
+![Vyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=veeda241&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeda241&layout=compact&theme=radical)
 
 ---
 
-🚀 Currently Building  
-- 🛠️ Agent frameworks for hackathons  
-- 🧪 Config validation scripts for bulletproof setups  
-- 📦 Clean GitHub repos with lean commits and zero bloat  
-- 🤝 Club initiatives that onboard juniors and impress mentors
+### 🧠 What I'm Into
+* 🤖 **LLMs & Prompt Engineering:** Building agent frameworks and smart interfaces.
+* ⚙️ **CLI & Workflow:** PowerShell, Docker, and making Windows feel like a dev's paradise.
+* 🌐 **Full-Stack:** React Native, Next.js, and Node.js for rapid MVP deployment.
+* 🏎️ **Off-track:** Huge fan of **Red Bull Racing** 🏎️ and always up for a hackathon.
 
 ---
 
-📫 Reach Me  
-- 💼 LinkedIn  
-- 📧 Email: vyas.engineer@example.com  
-- 🧠 Hackathon Portfolio
+### 💻 Repositories I'm Cooking
+* 🔥 **[Nova AI](https://github.com/veeda241/Nova-AI)**: Emotional AI system that understands users through interaction.
+* ⚡ **[StudyBuddyPro](https://github.com/veeda241/StudyBuddyPro)**: Productivity suite with AI-powered quiz generators.
+* 🛡️ **[Secure-Exam-Proctor](https://github.com/veeda241/Proctor-AI)**: Preventing cheating using YOLOv8 and gaze tracking.
+* 🧼 **Repo-Cleaner**: Automation scripts to keep your GitHub history as clean as Marie Kondo’s closet.
 
 ---
 
-🧰 Languages & Tools  
-React Native • Node.js • Next.js • Firebase • SQL  
-PowerShell • Docker • Git • LangChain • FastAPI  
-VS Code • Windows Terminal • Postman • GitHub Actions
+### 🧰 Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,firebase,js,ts,python,fastapi,mysql" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,powershell,vscode,postman" />
+</p>
 
 ---
 
-💻 Repositories I'm Cooking  
-- 🔥 Emotional AI chatbot (with a smile that almost feels real)  
-- ⚡ MVPs that deploy fast and demo smoother than expected  
-- 🧼 Scripts that clean up your repo like a digital Marie Kondo
+### 📢 Find me elsewhere
+* 💼 **LinkedIn:** [linkedin.com/in/vyas-s](https://www.linkedin.com/in/vyas-s)
+* 📧 **Email:** [vyas.engineer@example.com](mailto:vyas.engineer@example.com)
+* 🔗 **Portfolio:** [Your Portfolio Link Here]
 
 ---
 
-Show some ❤️ by starring the repos that made you say “wait, that’s clever”
+### 📊 Contribution Graph
+![Vyas's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=veeda241&theme=react-dark)
+
+*Show some ❤️ by starring the repos that made you say “wait, that’s clever!”*
