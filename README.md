@@ -2,13 +2,7 @@
 
 **Second-year Engineering Student | Full-stack Dev | Hackathon Warrior | AI/ML Enthusiast**
 
-I'm a creative problem-solver from India, currently pursuing B.Tech in AI & ML at St. Joseph's. I focus on building tech that is reproducible, emotionally resonant, and—most importantly—survives the "demo pressure" of a 24-hour hackathon. I'm proud to say I can build a clean backend and still find time to write a motivational rap for the presentation.
-
----
-
-### 🚀 Quick Stats & Activity
-![Vyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=veeda241&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeda241&layout=compact&theme=radical)
+I'm a creative problem-solver from India, currently pursuing B.Tech in AI & ML at St. Joseph's College of Engineering. I focus on building tech that is reproducible, emotionally resonant, and—most importantly—survives the "demo pressure" of a 24-hour hackathon. I'm proud to say I can build a clean backend and still find time to write a motivational rap for the presentation.
 
 ---
 
