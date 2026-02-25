@@ -243,19 +243,18 @@ fun_fact: >
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veeda241/veeda241/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veeda241/veeda241/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/veeda241/veeda241/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
+> ✅ **This snake is live now** — no setup needed! It uses the Platane demo snake.  
+> Want it to eat **your own** contribution squares? Follow the 2-min setup below 👇
+
 <details>
-<summary><b>⚙️ Setup Snake Animation (1-time, takes 2 mins)</b></summary>
+<summary><b>⚙️ Personalise the Snake to YOUR contributions</b></summary>
 <br/>
 
-Create this file in your repo at `.github/workflows/snake.yml`:
+**Step 1 —** Create `.github/workflows/snake.yml` in your `veeda241/veeda241` repo:
 
 ```yaml
 name: Generate Snake 🐍
@@ -281,7 +280,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Then run it manually once from **Actions → Generate Snake → Run workflow**.
+**Step 2 —** Go to **Actions tab → Generate Snake → Run workflow** (run it once manually)
+
+**Step 3 —** Replace the `<img>` above with:
+```
+https://raw.githubusercontent.com/veeda241/veeda241/output/github-contribution-grid-snake-dark.svg
+```
 
 </details>
 
