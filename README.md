@@ -343,9 +343,6 @@ https://raw.githubusercontent.com/veeda241/veeda241/output/github-contribution-g
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      FOOTER                                   -->
-<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
