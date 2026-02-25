@@ -352,6 +352,11 @@ https://raw.githubusercontent.com/veeda241/veeda241/output/github-contribution-g
 
 **⭐ Star the repos that made you go "wait, that's clever!"**
 
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      FOOTER                                   -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+
 <br/>
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
