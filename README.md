@@ -15,7 +15,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=veeda241&style=flat-square&color=blueviolet&label=Profile+Views)](https://github.com/veeda241)
 [![GitHub followers](https://img.shields.io/github/followers/veeda241?style=flat-square&color=06b6d4&label=Followers)](https://github.com/veeda241)
 [![GitHub stars](https://img.shields.io/github/stars/veeda241?style=flat-square&color=f59e0b&label=Stars)](https://github.com/veeda241)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vyas-s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vyas-s-veeda/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=flat-square&logo=vercel)](https://veeda241.github.io/portfolio/#blog)
 
 </div>
@@ -177,6 +177,18 @@ fun_fact: >
 
 ---
 
+## 💻 Full Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                    ANIMATED DIVIDER                           -->
 <!-- ══════════════════════════════════════════════════════════════ -->
@@ -203,7 +215,7 @@ fun_fact: >
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=veeda241&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7C3AED&fire=f59e0b&currStreakLabel=06B6D4&sideLabels=06B6D4" width="700"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=veeda241&theme=tokyonight&hide_border=true&ring=7C3AED&fire=f59e0b&currStreakLabel=06B6D4&sideLabels=06B6D4" width="700"/>
 
 </div>
 
@@ -215,7 +227,7 @@ fun_fact: >
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=veeda241&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=veeda241&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
 
 </div>
 
@@ -228,6 +240,18 @@ fun_fact: >
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=veeda241&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed&line=a78bfa&point=f59e0b&bg_color=1a1b27&custom_title=Vyas%27s%20Contribution%20Graph" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+### 🔝 Top Contributed Repo
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=veeda241&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="700"/>
 
 </div>
 
@@ -317,7 +341,21 @@ https://raw.githubusercontent.com/veeda241/veeda241/output/github-contribution-g
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vyas-s">
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/veeda_241)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/veeda_241)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyas-s-veeda/)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/veeda_241)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ADSTeam24)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyas.sk17@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://veeda241.github.io/portfolio/#blog)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vyas-s-veeda/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
 &nbsp;
@@ -343,7 +381,6 @@ https://raw.githubusercontent.com/veeda241/veeda241/output/github-contribution-g
 
 ---
 
-
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200"/>
@@ -352,10 +389,11 @@ https://raw.githubusercontent.com/veeda241/veeda241/output/github-contribution-g
 
 **⭐ Star the repos that made you go "wait, that's clever!"**
 
+[![](https://visitcount.itsvg.in/api?id=veeda241&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                      FOOTER                                   -->
 <!-- ══════════════════════════════════════════════════════════════ -->
-
 
 <br/>
 
