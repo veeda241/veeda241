@@ -1,0 +1,39 @@
+<svg width="826" height="230" viewBox="0 0 826 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .head { font-family: 'Courier New', monospace; font-size: 14px; fill: #9aa0a6; font-weight: 700; letter-spacing: 1px; }
+      .proc { font-family: 'Courier New', monospace; font-size: 14px; fill: #e0e0e0; }
+      .stat { font-family: 'Courier New', monospace; font-size: 13px; font-weight: 700; }
+    </style>
+  </defs>
+
+  <rect width="826" height="230" rx="10" fill="#0d0d14" stroke="#2a2a38" stroke-width="1.5"/>
+
+  <text x="30" y="34" class="head">PROCESS</text>
+  <text x="430" y="34" class="head">CPU</text>
+  <text x="510" y="34" class="head">MEM</text>
+  <text x="600" y="34" class="head">STATUS</text>
+  <line x1="20" y1="48" x2="806" y2="48" stroke="#2a2a38" stroke-width="1"/>
+
+  <g class="proc">
+    <text x="30" y="80">llm_pipelines.service</text>
+    <text x="430" y="80">87%</text><text x="510" y="80">&#8734;</text>
+    <text x="600" y="80" class="stat" fill="#39FF88">BUILDING</text>
+
+    <text x="30" y="110">exam_guard.rearchitect</text>
+    <text x="430" y="110">74%</text><text x="510" y="110">&#8734;</text>
+    <text x="600" y="110" class="stat" fill="#00D4FF">V2_IN_PROGRESS</text>
+
+    <text x="30" y="140">community.dac_comms</text>
+    <text x="430" y="140">52%</text><text x="510" y="140">&#8734;</text>
+    <text x="600" y="140" class="stat" fill="#FFB800">ACTIVE</text>
+
+    <text x="30" y="170">competitive_coding.loop</text>
+    <text x="430" y="170">40%</text><text x="510" y="170">&#8734;</text>
+    <text x="600" y="170" class="stat" fill="#FF2E88">GRINDING</text>
+
+    <text x="30" y="200">hackathon.watcher</text>
+    <text x="430" y="200">66%</text><text x="510" y="200">&#8734;</text>
+    <text x="600" y="200" class="stat" fill="#39FF88">ALWAYS_ON</text>
+  </g>
+</svg>

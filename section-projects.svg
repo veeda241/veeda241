@@ -1,0 +1,20 @@
+<svg width="826" height="210" viewBox="0 0 826 210" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="scanlines" width="826" height="6" patternUnits="userSpaceOnUse">
+      <rect width="826" height="1" fill="#1a1a22"/>
+    </pattern>
+    <style>
+      .title { font-family: 'Arial', sans-serif; font-weight: 900; font-size: 76px; letter-spacing: 22px; fill: #ece6f5; }
+      .subtitle { font-family: 'Courier New', monospace; font-weight: 700; font-size: 20px; letter-spacing: 6px; fill: #b39ddb; }
+    </style>
+  </defs>
+
+  <rect width="826" height="210" fill="#0a0a0f"/>
+  <rect width="826" height="210" fill="url(#scanlines)"/>
+  <rect y="0" width="826" height="2" fill="#7b2ff7" opacity="0.35"/>
+  <rect y="132" width="826" height="1" fill="#39FF88" opacity="0.4"/>
+  <rect y="208" width="826" height="2" fill="#7b2ff7" opacity="0.35"/>
+
+  <text x="435" y="100" text-anchor="middle" class="title">PROJECTS</text>
+  <text x="413" y="172" text-anchor="middle" class="subtitle">SHIPPED SYSTEMS &amp; ACTIVE BUILDS</text>
+</svg>

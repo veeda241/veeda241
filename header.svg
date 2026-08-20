@@ -1,0 +1,59 @@
+<svg width="1246" height="443" viewBox="0 0 1246 443" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .glitch-main { font-family: 'Courier New', monospace; font-weight: 700; font-size: 76px; letter-spacing: 6px; }
+      .sub { font-family: 'Courier New', monospace; font-weight: 600; font-size: 22px; letter-spacing: 10px; fill: #9aa0a6; }
+      .tag { font-family: 'Courier New', monospace; font-size: 18px; fill: #39FF88; }
+      .meta { font-family: 'Courier New', monospace; font-size: 13px; fill: #39FF88; opacity: 0.7; }
+      .sig { font-family: 'Courier New', monospace; font-size: 13px; fill: #FF2E88; opacity: 0.55; letter-spacing: 2px; }
+    </style>
+  </defs>
+
+  <rect width="1246" height="443" fill="#0a0a0f"/>
+
+  <!-- pixel-art icon top left -->
+  <g transform="translate(38,38)">
+    <rect x="16" y="0" width="8" height="8" fill="#7b2ff7"/>
+    <rect x="24" y="0" width="8" height="8" fill="#7b2ff7"/>
+    <rect x="8" y="8" width="8" height="8" fill="#7b2ff7"/>
+    <rect x="32" y="8" width="8" height="8" fill="#7b2ff7"/>
+    <rect x="0" y="16" width="8" height="8" fill="#7b2ff7"/>
+    <rect x="16" y="16" width="8" height="8" fill="#39FF88"/>
+    <rect x="24" y="16" width="8" height="8" fill="#39FF88"/>
+    <rect x="40" y="16" width="8" height="8" fill="#7b2ff7"/>
+    <rect x="0" y="24" width="8" height="8" fill="#7b2ff7"/>
+    <rect x="16" y="24" width="8" height="8" fill="#39FF88"/>
+    <rect x="24" y="24" width="8" height="8" fill="#39FF88"/>
+    <rect x="40" y="24" width="8" height="8" fill="#7b2ff7"/>
+    <rect x="8" y="32" width="8" height="8" fill="#7b2ff7"/>
+    <rect x="32" y="32" width="8" height="8" fill="#7b2ff7"/>
+    <rect x="16" y="40" width="8" height="8" fill="#7b2ff7"/>
+    <rect x="24" y="40" width="8" height="8" fill="#7b2ff7"/>
+  </g>
+
+  <text x="1208" y="18" text-anchor="end" class="sig">SIGNAL::FOUND</text>
+
+  <!-- glitch title: cyan offset left, pink offset right, white core -->
+  <g text-anchor="middle">
+    <text x="623" y="178" class="glitch-main" fill="#00D4FF" transform="translate(-4,4)">VYAS S</text>
+    <text x="623" y="178" class="glitch-main" fill="#FF2E88" transform="translate(4,-2)">VYAS S</text>
+    <text x="623" y="178" class="glitch-main" fill="#f5f0ff">VYAS S</text>
+  </g>
+
+  <text x="623" y="242" text-anchor="middle" class="sub">AI &amp; ML ENGINEER</text>
+
+  <text x="623" y="312" text-anchor="middle" class="tag">$ building things that ship before the coffee's cold</text>
+
+  <!-- decorative dots -->
+  <circle cx="132" cy="392" r="3" fill="#FF2E88"/>
+  <circle cx="145" cy="392" r="3" fill="#39FF88"/>
+  <circle cx="272" cy="392" r="3" fill="#7b2ff7"/>
+  <circle cx="480" cy="392" r="3" fill="#FF2E88"/>
+  <circle cx="693" cy="392" r="4" fill="#39FF88"/>
+  <circle cx="901" cy="392" r="3" fill="#7b2ff7"/>
+  <circle cx="972" cy="392" r="3" fill="#FF2E88"/>
+  <circle cx="1113" cy="392" r="3" fill="#39FF88"/>
+
+  <text x="38" y="430" class="meta">13.0827&#176;N 80.2707&#176;E</text>
+  <text x="1208" y="430" text-anchor="end" class="meta">PID: &#8734;</text>
+</svg>

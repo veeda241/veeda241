@@ -1,0 +1,20 @@
+<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .quote { font-family: 'Courier New', monospace; font-size: 15px; font-style: italic; fill: #e0e0e0; }
+      .attr { font-family: 'Courier New', monospace; font-size: 13px; fill: #FF2E88; }
+    </style>
+  </defs>
+  <rect width="700" height="220" rx="10" fill="#0d0d14" stroke="#2a2a38" stroke-width="1.5"/>
+
+  <text x="30" y="45" class="quote">"Every project starts as a notebook cell</text>
+  <text x="30" y="68" class="quote">and ends up arguing with a Docker container."</text>
+  <text x="670" y="92" text-anchor="end" class="attr">— commit message, 2 AM</text>
+
+  <line x1="20" y1="115" x2="680" y2="115" stroke="#2a2a38" stroke-width="1"/>
+
+  <text x="30" y="148" class="quote">"The proctor watches the student.</text>
+  <text x="30" y="171" class="quote">The model watches the proctor.</text>
+  <text x="30" y="194" class="quote">Somewhere, a risk score climbs."</text>
+  <text x="670" y="212" text-anchor="end" class="attr">— ExamGuard Pro, in production</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg width="700" height="260" viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .row { font-family: 'Courier New', monospace; font-size: 15px; fill: #e0e0e0; }
+      .role { font-family: 'Courier New', monospace; font-size: 15px; fill: #9aa0a6; }
+      .head { font-family: 'Courier New', monospace; font-size: 13px; fill: #39FF88; font-weight: 700; letter-spacing: 2px; }
+      .check { fill: #39FF88; font-family: 'Courier New', monospace; font-size: 15px; }
+    </style>
+  </defs>
+  <rect width="700" height="260" rx="10" fill="#0d0d14" stroke="#2a2a38" stroke-width="1.5"/>
+
+  <g class="row">
+    <text x="30" y="45"><tspan class="check">[✓] </tspan>CodeHack Pirates</text>
+    <text x="330" y="45" class="role">— Community Lead</text>
+
+    <text x="30" y="78"><tspan class="check">[✓] </tspan>GDG Chennai</text>
+    <text x="330" y="78" class="role">— Member</text>
+
+    <text x="30" y="111"><tspan class="check">[✓] </tspan>GDG on Campus, SJCE</text>
+    <text x="330" y="111" class="role">— Member</text>
+
+    <text x="30" y="144"><tspan class="check">[✓] </tspan>Data Analytics Club</text>
+    <text x="330" y="144" class="role">— Communications</text>
+  </g>
+
+  <line x1="20" y1="172" x2="680" y2="172" stroke="#2a2a38" stroke-width="1"/>
+  <text x="30" y="200" class="head">COMPETITIVE PROFILES</text>
+
+  <g font-family="Courier New, monospace" font-size="14" fill="#e0e0e0">
+    <text x="30" y="228">Codeforces</text>
+    <rect x="180" y="216" width="180" height="10" fill="#1a1a22"/>
+    <rect x="180" y="216" width="95" height="10" fill="#00D4FF"/>
+    <text x="380" y="228">(Python)</text>
+
+    <text x="30" y="250">HackerRank</text>
+    <rect x="180" y="238" width="180" height="10" fill="#1a1a22"/>
+    <rect x="180" y="238" width="110" height="10" fill="#FF2E88"/>
+    <text x="380" y="250">(Java)</text>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<svg width="620" height="430" viewBox="0 0 620 430" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .lbl { font-family: 'Courier New', monospace; font-size: 15px; fill: #FF2E88; font-weight: 700; }
+      .val { font-family: 'Courier New', monospace; font-size: 15px; fill: #e0e0e0; }
+      .hdr { font-family: 'Courier New', monospace; font-size: 15px; fill: #39FF88; font-weight: 700; letter-spacing: 2px; }
+    </style>
+  </defs>
+
+  <rect width="620" height="430" rx="10" fill="#0d0d14" stroke="#2a2a38" stroke-width="1.5"/>
+  <rect x="0" y="0" width="620" height="40" rx="10" fill="#14141c"/>
+  <rect x="0" y="30" width="620" height="10" fill="#14141c"/>
+  <circle cx="24" cy="20" r="6" fill="#FF5F57"/>
+  <circle cx="46" cy="20" r="6" fill="#FEBC2E"/>
+  <circle cx="68" cy="20" r="6" fill="#28C840"/>
+  <text x="310" y="25" text-anchor="middle" class="hdr">SESSION ACTIVE</text>
+
+  <g font-family="Courier New, monospace" font-size="15">
+    <text x="30" y="80" class="lbl">IDENTITY</text><text x="180" y="80" class="val">Vyas S</text>
+    <text x="30" y="110" class="lbl">ORIGIN</text><text x="180" y="110" class="val">Chennai, India</text>
+    <text x="30" y="140" class="lbl">SIGNAL</text><text x="180" y="140" class="val">AI Engineer &amp; Full-Stack Builder</text>
+
+    <line x1="30" y1="165" x2="590" y2="165" stroke="#2a2a38" stroke-width="1"/>
+
+    <text x="30" y="198" class="lbl">STATE</text>
+    <text x="180" y="198" class="val">2nd-yr B.Tech, AI &amp; ML</text>
+    <text x="180" y="222" class="val">St. Joseph's College of Eng.</text>
+    <text x="180" y="246" class="val">AI Engineer Intern @ IQmath</text>
+
+    <line x1="30" y1="271" x2="590" y2="271" stroke="#2a2a38" stroke-width="1"/>
+
+    <text x="30" y="304" class="lbl">SEEKING</text>
+    <text x="180" y="304" class="val">Internships</text>
+    <text x="180" y="328" class="val">AI / Backend Engineering roles</text>
+
+    <line x1="30" y1="353" x2="590" y2="353" stroke="#2a2a38" stroke-width="1"/>
+
+    <text x="30" y="386" class="lbl">FREQ</text>
+    <text x="180" y="386" class="val">LLM Pipelines · Agent Orchestration</text>
+    <text x="180" y="410" class="val">Computer Vision</text>
+  </g>
+</svg>
