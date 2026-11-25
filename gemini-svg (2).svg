@@ -1,0 +1,37 @@
+<svg width="100%" height="230" viewBox="0 0 1200 230" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    
+    <linearGradient id="f1WaveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B1221" />
+      <stop offset="52%" stop-color="#1E41FF" />
+      <stop offset="100%" stop-color="#DC0000" />
+    </linearGradient>
+  </defs>
+
+  
+  <path d="M0,0 L1200,0 L1200,175 Q900,235 600,180 T0,190 Z" fill="url(#f1WaveGrad)" />
+
+  
+  <circle cx="140" cy="48" r="2" fill="#FFC906">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="290" cy="135" r="1.8" fill="#FFFFFF">
+    <animate attributeName="opacity" values="0.9;0.2;0.9" dur="1.7s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="930" cy="52" r="2.2" fill="#FFC906">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1065" cy="128" r="1.8" fill="#FFFFFF">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.9s" repeatCount="indefinite" />
+  </circle>
+
+  
+  <text x="600" y="96" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="1">
+    Vyas S
+  </text>
+
+  
+  <text x="600" y="142" text-anchor="middle" fill="#FFC906" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="0.5">
+    🏎️ F1 Strategy &amp; AI Engineer | Multimodal &amp; Agentic AI
+  </text>
+</svg>
