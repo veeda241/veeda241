@@ -1,7 +1,7 @@
 <!-- ══════════ HEADER ══════════ -->
 <div align="center">
 
-  <img src="./banner.gif" width="100%" alt="Vyas S F1 Animated Banner" />
+  <img src="./gemini-svg%20(2).svg" width="100%" alt="Vyas S F1 Header" />
 
   <a href="https://github.com/veeda241">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FFC906&center=true&vCenter=true&width=760&lines=%5BRADIO%5D+Box%2C+box.+Counterfactual+model+deployed.;Fusing+text%2C+speech+%26+video+emotion+signals.;Evaluating+models+with+grouped+CV+%26+macro-F1.;Building+real-time+CV+%26+agentic+AI+pipelines.;Strategy+is+everything." alt="Typing SVG" />
