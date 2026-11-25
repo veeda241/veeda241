@@ -1,7 +1,7 @@
 <!-- ══════════ HEADER ══════════ -->
 <div align="center">
 
-  <img src="./header-wave.svg" width="100%" alt="Vyas S F1 Wave Header" />
+  <img src="./banner.gif" width="100%" alt="Vyas S F1 Animated Banner" />
 
   <a href="https://github.com/veeda241">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FFC906&center=true&vCenter=true&width=760&lines=%5BRADIO%5D+Box%2C+box.+Counterfactual+model+deployed.;Fusing+text%2C+speech+%26+video+emotion+signals.;Evaluating+models+with+grouped+CV+%26+macro-F1.;Building+real-time+CV+%26+agentic+AI+pipelines.;Strategy+is+everything." alt="Typing SVG" />
@@ -20,7 +20,7 @@
   [![Followers](https://img.shields.io/github/followers/veeda241?style=flat-square&color=DC0000&label=Followers)](https://github.com/veeda241)
   [![Stars](https://img.shields.io/github/stars/veeda241?style=flat-square&color=FFC906&label=Stars)](https://github.com/veeda241)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1E41FF?style=flat-square&logo=vercel)](https://your-portfolio-link.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1E41FF?style=flat-square&logo=vercel)](https://your-portfolio-link.com/)
 
   <br/><br/>
   <img src="./gemini-svg.svg" width="100%" alt="F1 car racing across telemetry sectors" />
@@ -29,6 +29,12 @@
 ---
 
 ### 🏎️ Race Control Overview
+
+<div align="center">
+  <img src="./race.gif" width="100%" alt="F1 Race Telemetry Animation" />
+</div>
+
+<br/>
 
 > *"Rigorous validation in the telemetry—grouped cross-validation, multimodal fusion, and low-latency inference."*
 
@@ -48,6 +54,12 @@ Third-year **B.Tech AI & ML** undergraduate (**'28**) at **St. Joseph's College 
 ---
 
 ### 🏆 Featured Telemetry (Projects)
+
+<div align="center">
+  <img src="./circuit.gif" width="100%" alt="F1 Circuit Strategy Telemetry" />
+</div>
+
+<br/>
 
 | Chassis / Project | Sector Focus | Engineering Telemetry |
 | :--- | :--- | :--- |
